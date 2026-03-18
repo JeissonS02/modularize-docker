@@ -448,6 +448,14 @@ Docker container running on EC2 instance with exposed port configuration.
 
 Public access to the deployed application on AWS EC2, validating multiple endpoints.
 
+
+## 🎥 Deployment Video
+
+Watch the full deployment process:
+
+[▶️ Click here to watch the video](./images/deployment_docker.mp4)
+
+
 ------------------------------------------------------------------------
 
 ## 📈 Learning Outcomes
