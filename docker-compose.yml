@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    container_name: microserver_web
+    ports:
+      - "35000:35000"
+    depends_on:
+      - db
+
+  db:
+    image: mongo:4.4
+    container_name: microserver_db
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb:/data/db
+
+volumes:
+  mongodb:
