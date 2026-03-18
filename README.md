@@ -453,7 +453,7 @@ Public access to the deployed application on AWS EC2, validating multiple endpoi
 
 Watch the full deployment process:
 
-[▶️ Click here to watch the video](./images/deployment_docker.mp4)
+[▶️ Click here to watch the video](./images/deployment.mp4)
 
 
 ------------------------------------------------------------------------
